@@ -16,10 +16,5 @@ Bu uygulama, güncel döviz kuru bilgilerini gerçek bir API'den alarak, kullan�
 
 
 ### Görsel
-Uygulamanın kullanıcı arayüzüne ait bir ekran görüntüsünü README dosyanızda kullanabilirsiniz. Görselin açıklama kısmını ve uygun formatta eklemeyi unutmayın. Görseli uygulamanın ana ekranından ya da önemli özelliklerini sergileyen bir bölümden alabilirsiniz.
-
-Eğer görseli yüklemek isterseniz, GitHub repository'nize yükleyip, README dosyanızda şu şekilde ekleyebilirsiniz:
-
-```markdown
-<img width="1424" alt="Screenshot 2025-03-19 at 03 21 18" src="https://github.com/user-attachments/assets/87c720fc-d6e0-4995-9499-dcf893362bb1" />
+![Döviz Kuru Uygulaması Görseli](https://github.com/user-attachments/assets/87c720fc-d6e0-4995-9499-dcf893362bb1)
 
