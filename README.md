@@ -1,12 +1,25 @@
-# React + Vite
+# Döviz Kuru Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu uygulama, güncel döviz kuru bilgilerini gerçek bir API'den alarak, kullanıcıların farklı para birimlerinin birbirine olan değerini kolayca öğrenmesini sağlar. React ile geliştirilmiş olan bu uygulama, modern web teknolojileri kullanılarak performansı yüksek ve kullanıcı dostu bir arayüzle tasarlanmıştır.
 
-Currently, two official plugins are available:
+## Özellikler
+- Güncel döviz kuru bilgilerini gerçek zamanlı olarak alır.
+- Kullanıcı dostu bir arayüz ile döviz çevirisi yapabilirsiniz.
+- API bağlantısı ile dünya çapındaki döviz kurlarını öğrenebilirsiniz.
+- Kullanıcıların hızlı ve etkili bir şekilde farklı para birimleri arasında dönüşüm yapmasına imkan tanır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kullanılan Teknolojiler
+- **React**: Arayüz geliştirme için.
+- **Axios**: API'den veri almak için.
+- **CSS**: Uygulamanın stilini oluşturmak için.
+- **API**: Güncel döviz kuru verileri için.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Görsel
+Uygulamanın kullanıcı arayüzüne ait bir ekran görüntüsünü README dosyanızda kullanabilirsiniz. Görselin açıklama kısmını ve uygun formatta eklemeyi unutmayın. Görseli uygulamanın ana ekranından ya da önemli özelliklerini sergileyen bir bölümden alabilirsiniz.
+
+Eğer görseli yüklemek isterseniz, GitHub repository'nize yükleyip, README dosyanızda şu şekilde ekleyebilirsiniz:
+
+```markdown
+<img width="1424" alt="Screenshot 2025-03-19 at 03 21 18" src="https://github.com/user-attachments/assets/87c720fc-d6e0-4995-9499-dcf893362bb1" />
+
